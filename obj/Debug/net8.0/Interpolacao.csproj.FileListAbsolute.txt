@@ -1,0 +1,15 @@
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.sourcelink.json
+C:\dev\dotnet\EstudoBase\Interpolacao\bin\Debug\net8.0\Interpolacao.exe
+C:\dev\dotnet\EstudoBase\Interpolacao\bin\Debug\net8.0\Interpolacao.deps.json
+C:\dev\dotnet\EstudoBase\Interpolacao\bin\Debug\net8.0\Interpolacao.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\Interpolacao\bin\Debug\net8.0\Interpolacao.dll
+C:\dev\dotnet\EstudoBase\Interpolacao\bin\Debug\net8.0\Interpolacao.pdb
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.dll
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\refint\Interpolacao.dll
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.pdb
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\Interpolacao.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\Interpolacao\obj\Debug\net8.0\ref\Interpolacao.dll
